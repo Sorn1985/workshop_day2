@@ -1,0 +1,21 @@
+h1{
+    color: #f54747;
+}
+
+h2{
+    color: rgba(4, 4, 206, 0.918);
+}
+
+h3{
+    color: rgb(99, 3, 188);
+}
+
+button{
+    background-color: aquamarine;
+}
+img{
+    width: 150px;
+    height: 100px;
+    border-radius: 50;
+    
+}
